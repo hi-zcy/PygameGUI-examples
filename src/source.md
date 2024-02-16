@@ -1,3 +1,3 @@
-＃ Director src
+# Director src
 
-Src means source. This director has many Python files they are PygameGUI Moodle.
+'Src means source. This director has many Python files they are PygameGUI Moodle.
