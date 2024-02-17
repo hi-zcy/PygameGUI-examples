@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-src/__pycache__/release
+__pycache__
 *.py[cod]
 *$py.class
 
