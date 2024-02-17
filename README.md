@@ -52,9 +52,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 - All contributors and supporters of the Pygame community.
 ## Contact
-For any further questions or feedback, please [open an issue](<https://github.com/Zcyyyyyyyyyy/PygameGUI-examples/issues>) on our reposi```markdown
-tory or reach out directly to the repository maintainers. 
+For any further questions or feedback, please [open an issue](<https://github.com/Zcyyyyyyyyyy/PygameGUI-examples/issues>) on our repository or reach out directly to the repository maintainers. 
 ## Additional Resources
 - [Pygame Documentation](<https://www.pygame.org/docs/>)
 - [Python Documentation](<https://docs.python.org/3/>)
+
 We hope these examples help you to get a grip on building GUI applications with Pygame. Happy coding!
