@@ -25,20 +25,20 @@ Creating a README.md file is crucial for any GitHub repository as it provides es
 - **complexd-chooser-box**: An interface to choose any thing.
 - **push-button**: An interface to choose a thing.
 - **scorll-bar**: An simple scorll bar.
-### Prerequisites
-Before you can run these examples, ensure you have the following installed:
-- Python 3.7.1+
-- Pygame library
-You can install Pygame using pip if you don't have it already:
-```bash
-pip install pygame
-```
 ### Installation
 Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/Zcyyyyyyyyyy/PygameGUI-examples.git
 ```
 Navigate to the directory where you cloned the repo and you will find the various example scripts.
+### Prerequisites
+Before you can run these examples, ensure you have the following installed:
+- Python 3.7.1+
+- Pygame library
+You can install Pygame using pip if you don't have it already:
+```bash
+pip install -r requirements.txt
+```
 ### Running the Examples
 To run any of the example scripts, navigate to the appropriate directory in your terminal or command prompt and execute the python file. For example:
 ```bash
