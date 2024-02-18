@@ -18,7 +18,8 @@ Development can be divided into the following parts:
  4. Improve based on the results of the discussion.
  5. Published on GitHub by @歌者文明清理员 (github: dddddgz) and @zhangchenyun (github: zcyyyyyyy).
  6. (Long-term planning) Published on the PyPI community.
-##Getting Started
+
+## Getting Started
 ### Examples
 - **text-edit.py**: Demonstrates a basic text editor with font selection and text input.
 - **complexd-chooser-box**: An interface to choose any thing.
