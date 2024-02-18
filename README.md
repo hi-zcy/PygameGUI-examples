@@ -18,8 +18,7 @@ Development can be divided into the following parts:
  4. Improve based on the results of the discussion.
  5. Published on GitHub by @歌者文明清理员 (github: dddddgz) and @zhangchenyun (github: zcyyyyyyy).
  6. (Long-term planning) Published on the PyPI community.
-Creating a README.md file is crucial for any GitHub repository as it provides essential information about the project, how to set it up, and how to use it. Here's a basic template for a README.md you could use for your Pygame GUI examples repository:
-## Getting Started
+##Getting Started
 ### Examples
 - **text-edit.py**: Demonstrates a basic text editor with font selection and text input.
 - **complexd-chooser-box**: An interface to choose any thing.
