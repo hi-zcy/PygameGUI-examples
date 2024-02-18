@@ -38,11 +38,3 @@ jobs:
     - name: Test with python
       run: |
         python3 main.py
-        cd complexd-chooser-box
-        cd ..
-        cd enter-frame
-        cd ..
-        cd push-button
-        cd ..
-        cd scorll-bar
-        cd ..
